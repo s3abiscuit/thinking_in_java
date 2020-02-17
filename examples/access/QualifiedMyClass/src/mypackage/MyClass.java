@@ -1,6 +1,6 @@
 //: access/mypackage/MyClass.java
-package access.mypackage;
+package mypackage;
 
 public class MyClass {
-  // ...
+    // ...
 } ///:~
