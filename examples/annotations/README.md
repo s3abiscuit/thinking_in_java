@@ -1,7 +1,7 @@
 | No  | Prj                               | Description                              |
 | :---| :-------------------------------- | :--------------------------------------- |
 | 1   | [UseCaseTracker][01]                      |                                          |
-| 2   | [SweetShop][02]                   |                                          |
+| 2   | [TableCreator][02]                   |                                          |
 | 3   | [ToyTest][03]                     |                                          |
 | 4   | [ClassInitialization][04]         |                                          |
 | 5   | [GenericClassReferences][05]      |                                          |
@@ -31,7 +31,7 @@
 
 
 [01]: ./UseCaseTracker/
-[02]: ./SweetShop/
+[02]: ./TableCreator/
 [03]: ./ToyTest/
 [04]: ./ClassInitialization/
 [05]: ./GenericClassReferences/

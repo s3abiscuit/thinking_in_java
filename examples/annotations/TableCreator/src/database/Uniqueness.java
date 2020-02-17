@@ -1,8 +1,8 @@
 //: annotations/database/Uniqueness.java
 // Sample of nested annotations
-package annotations.database;
+package database;
 
 public @interface Uniqueness {
-  Constraints constraints()
-    default @Constraints(unique=true);
+    Constraints constraints()
+            default @Constraints(unique = true);
 } ///:~
