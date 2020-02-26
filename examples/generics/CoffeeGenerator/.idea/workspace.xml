@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fffd6d0a-3308-45db-aa4e-7f634027a627" name="Default Changelist" comment="" />
+    <list default="true" id="242f8b63-5767-4f69-91c7-0f899a10806e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
-  <component name="ProjectId" id="1YDIP5dT9bV4YPP7ySHCBgORsWZ" />
+  <component name="ProjectId" id="1YLmHZbY2qKUH0hjL1DQ2xg4EkA" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -42,9 +42,9 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
-    <configuration name="RandomList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RandomList" />
-      <module name="RandomList" />
+    <configuration name="CoffeeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoffeeGenerator" />
+      <module name="CoffeeGenerator" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,7 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomList" />
+        <item itemvalue="Application.CoffeeGenerator" />
       </list>
     </recent_temporary>
   </component>
