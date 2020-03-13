@@ -1,6 +1,6 @@
 //: reusing/Beetle.java
 // The full process of initialization.
-import static net.mindview.util.Print.*;
+import static util.Print.*;
 
 class Insect {
   private int i = 9;
