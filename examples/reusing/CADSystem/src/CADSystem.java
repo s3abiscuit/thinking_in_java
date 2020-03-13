@@ -1,7 +1,7 @@
 //: reusing/CADSystem.java
 // Ensuring proper cleanup.
 package reusing;
-import static net.mindview.util.Print.*;
+import static util.Print.*;
 
 class Shape {
   Shape(int i) { print("Shape constructor"); }
