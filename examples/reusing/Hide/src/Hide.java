@@ -1,7 +1,7 @@
 //: reusing/Hide.java
 // Overloading a base-class method name in a derived
 // class does not hide the base-class versions.
-import static net.mindview.util.Print.*;
+import static util.Print.*;
 
 class Homer {
   char doh(char c) {
