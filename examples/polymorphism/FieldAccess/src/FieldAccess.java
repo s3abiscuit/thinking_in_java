@@ -17,6 +17,8 @@ public class FieldAccess {
     Super sup = new Sub(); // Upcast
     System.out.println("sup.field = " + sup.field +
       ", sup.getField() = " + sup.getField());
+    // field is not polymorphism
+    // so can not be overridden
     Sub sub = new Sub();
     System.out.println("sub.field = " +
       sub.field + ", sub.getField() = " +

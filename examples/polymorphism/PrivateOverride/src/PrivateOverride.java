@@ -3,6 +3,8 @@
 import static util.Print.*;
 
 public class PrivateOverride {
+  // private method is also final method
+  // can not be overridden
   private void f() { print("private f()"); }
   public static void main(String[] args) {
     PrivateOverride po = new Derived();
