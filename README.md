@@ -37,7 +37,7 @@ Rearrange TIJ4 source code into separate projects that can be executed in Intell
 | 2    | [Bath][0702]      |             |
 | 3    | [Detergent][0703]  |             |
 | 4    | [Cartoon][0704]   |         |
-| 5    | [Chess][0705]           |             |
+| 5    | [Chess][0705]           |            |
 | 6    | [SpaceShip][0706]         |             |
 | 7    | [SpaceShipDelegation][0707]            |             |
 | 8    | [PlaceSetting][0708]              |             |
