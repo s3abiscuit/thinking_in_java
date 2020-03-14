@@ -75,6 +75,40 @@ Rearrange TIJ4 source code into separate projects that can be executed in Intell
 [0719]: ./examples/reusing/Jurassic/
 [0720]: ./examples/reusing/Beetle/
 
+**chapter8 polymorphism**
+
+| No  | Prj                               | Description                              |
+| :---| :-------------------------------- | :---------------------- |
+| 1   | [Music][0801]                      ||
+| 2   | [Music2][0802]                   ||
+| 3   | [Shapes][0803]                     ||
+| 4   | [Music3][0804]         ||
+| 5   | [PrivateOverride][0805]      ||
+| 6   | [FieldAccess][0806]     ||
+| 7   | [StaticPolymorphism][0807]      ||
+| 8   | [Sanwich][0808]                  ||
+| 9   | [Frog][0809]              ||
+| 10  | [ReferenceCounting][0810]                  ||
+| 11  | [PolyConstructors][0811]                    ||
+| 12  | [CovariantReturn][0812]                   ||
+| 13  | [Transmogrify][0813]                   ||
+| 14  | [RTTI][0814]                   ||
+
+[0801]: ./examples/polymorphism/Music/
+[0802]: ./examples/polymorphism/Music2/
+[0803]: ./examples/polymorphism/Shapes/
+[0804]: ./examples/polymorphism/Music3/
+[0805]: ./examples/polymorphism/PrivateOverride/
+[0806]: ./examples/polymorphism/FieldAccess/
+[0807]: ./examples/polymorphism/StaticPolymorphism/
+[0808]: ./examples/polymorphism/Sanwich/
+[0809]: ./examples/polymorphism/Frog/
+[0810]: ./examples/polymorphism/PeferenceCounting/
+[0811]: ./examples/polymorphism/PolyConstructors/
+[0812]: ./examples/polymorphism/CovariantReturn/
+[0813]: ./examples/polymorphism/Transmogrify/
+[0814]: ./examples/polymorphism/RTTI/
+
 **chapter14 typeinfo**
 
 | No  | Prj                               | Description                              |
