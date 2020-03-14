@@ -86,7 +86,7 @@ Rearrange TIJ4 source code into separate projects that can be executed in Intell
 | 5   | [PrivateOverride][0805]      ||
 | 6   | [FieldAccess][0806]     ||
 | 7   | [StaticPolymorphism][0807]      ||
-| 8   | [Sanwich][0808]                  ||
+| 8   | [Sandwich][0808]                  ||
 | 9   | [Frog][0809]              ||
 | 10  | [ReferenceCounting][0810]                  ||
 | 11  | [PolyConstructors][0811]                    ||
@@ -101,7 +101,7 @@ Rearrange TIJ4 source code into separate projects that can be executed in Intell
 [0805]: ./examples/polymorphism/PrivateOverride/
 [0806]: ./examples/polymorphism/FieldAccess/
 [0807]: ./examples/polymorphism/StaticPolymorphism/
-[0808]: ./examples/polymorphism/Sanwich/
+[0808]: ./examples/polymorphism/Sandwich/
 [0809]: ./examples/polymorphism/Frog/
 [0810]: ./examples/polymorphism/PeferenceCounting/
 [0811]: ./examples/polymorphism/PolyConstructors/
