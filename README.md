@@ -160,28 +160,28 @@ Rearrange TIJ4 source code into separate projects that can be executed in Intell
 | 5   | [DotNew][1005]      ||
 | 6   | [Parcel3][1006]     ||
 | 7   | [TestParcel][1007]      ||
-| 8   | [Parcel5][1408]                  ||
-| 9   | [Parcel6][1409]              ||
-| 10  | [Parcel7][1410]                  ||
-| 11  | [Parcel7b][1411]                    ||
-| 12  | [Parcel8][1412]                   ||
-| 13  | [Parcel9][1413]                   ||
-| 14  | [AnonymousConstructor][1414]                   ||
-| 15  | [Parcel10][1415]         ||
-| 16  | [Factories][1416]           ||
-| 17  | [Games][1417]                 ||
-| 18  | [Parcel11][1418]             ||
-| 19  | [ClassInterface][1419]          ||
-| 20  | [TestBed][1420]            ||
-| 21  | [MultiNestingAccess][1421]                       ||
-| 22  | [MultiInterfaces][1422]            ||
-| 23  | [MultiImplementation][1423]                   ||
-| 24  | [Callbacks][1424]          ||
-| 25  | [GreenhouseController][1425]        ||
-| 26  | [InheritInner][1426]         ||
-| 27  | [BigEgg][1427]     ||
-| 28  | [BigEgg2][1428]      ||
-| 29  | [LocalInnerClass][1429]      ||
+| 8   | [Parcel5][1008]                  ||
+| 9   | [Parcel6][1009]              ||
+| 10  | [Parcel7][1010]                  ||
+| 11  | [Parcel7b][1011]                    ||
+| 12  | [Parcel8][1012]                   ||
+| 13  | [Parcel9][1013]                   ||
+| 14  | [AnonymousConstructor][1014]                   ||
+| 15  | [Parcel10][1015]         ||
+| 16  | [Factories][1016]           ||
+| 17  | [Games][1017]                 ||
+| 18  | [Parcel11][1018]             ||
+| 19  | [ClassInterface][1019]          ||
+| 20  | [TestBed][1020]            ||
+| 21  | [MultiNestingAccess][1021]                       ||
+| 22  | [MultiInterfaces][1022]            ||
+| 23  | [MultiImplementation][1023]                   ||
+| 24  | [Callbacks][1024]          ||
+| 25  | [GreenhouseController][1025]        ||
+| 26  | [InheritInner][1026]         ||
+| 27  | [BigEgg][1027]     ||
+| 28  | [BigEgg2][1028]      ||
+| 29  | [LocalInnerClass][1029]      ||
 
 [1001]: ./examples/innerclasses/Parcel1/
 [1002]: ./examples/innerclasses/Parcel2/
@@ -193,7 +193,7 @@ Rearrange TIJ4 source code into separate projects that can be executed in Intell
 [1008]: ./examples/innerclasses/Parcel5/
 [1009]: ./examples/innerclasses/Parcel6/
 [1010]: ./examples/innerclasses/Parcel7/
-[1011]: ./examples/innerclasses/Parcel7b/
+[1011]: ./examples/innerclasses/Parcel7rb/
 [1012]: ./examples/innerclasses/Parcel8/
 [1013]: ./examples/innerclasses/Parcel9/
 [1014]: ./examples/innerclasses/AnonymousConstructor/
