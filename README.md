@@ -147,6 +147,72 @@ Rearrange TIJ4 source code into separate projects that can be executed in Intell
 [0915]: ./examples/interfaces/Factories/
 [0916]: ./examples/interfaces/Games/
 
+
+
+**chapter10 innerclasses**
+
+| No  | Prj                               | Description                              |
+| :---| :-------------------------------- | :---------------------- |
+| 1   | [Parcel1][1001]                      ||
+| 2   | [Parcel2][1002]                   ||
+| 3   | [Sequence][1003]                     ||
+| 4   | [DotThis][1004]         ||
+| 5   | [DotNew][1005]      ||
+| 6   | [Parcel3][1006]     ||
+| 7   | [TestParcel][1007]      ||
+| 8   | [Parcel5][1408]                  ||
+| 9   | [Parcel6][1409]              ||
+| 10  | [Parcel7][1410]                  ||
+| 11  | [Parcel7b][1411]                    ||
+| 12  | [Parcel8][1412]                   ||
+| 13  | [Parcel9][1413]                   ||
+| 14  | [AnonymousConstructor][1414]                   ||
+| 15  | [Parcel10][1415]         ||
+| 16  | [Factories][1416]           ||
+| 17  | [Games][1417]                 ||
+| 18  | [Parcel11][1418]             ||
+| 19  | [ClassInterface][1419]          ||
+| 20  | [TestBed][1420]            ||
+| 21  | [MultiNestingAccess][1421]                       ||
+| 22  | [MultiInterfaces][1422]            ||
+| 23  | [MultiImplementation][1423]                   ||
+| 24  | [Callbacks][1424]          ||
+| 25  | [GreenhouseController][1425]        ||
+| 26  | [InheritInner][1426]         ||
+| 27  | [BigEgg][1427]     ||
+| 28  | [BigEgg2][1428]      ||
+| 29  | [LocalInnerClass][1429]      ||
+
+[1001]: ./examples/innerclasses/Parcel1/
+[1002]: ./examples/innerclasses/Parcel2/
+[1003]: ./examples/innerclasses/Sequence/
+[1004]: ./examples/innerclasses/DotThis/
+[1005]: ./examples/innerclasses/DotNew/
+[1006]: ./examples/innerclasses/Parcel3/
+[1007]: ./examples/innerclasses/TestParcel/
+[1008]: ./examples/innerclasses/Parcel5/
+[1009]: ./examples/innerclasses/Parcel6/
+[1010]: ./examples/innerclasses/Parcel7/
+[1011]: ./examples/innerclasses/Parcel7b/
+[1012]: ./examples/innerclasses/Parcel8/
+[1013]: ./examples/innerclasses/Parcel9/
+[1014]: ./examples/innerclasses/AnonymousConstructor/
+[1015]: ./examples/innerclasses/Parcel10/
+[1016]: ./examples/innerclasses/Factories/
+[1017]: ./examples/innerclasses/Games/
+[1018]: ./examples/innerclasses/Parcel11/
+[1019]: ./examples/innerclasses/ClassInterface/
+[1020]: ./examples/innerclasses/TestBed/
+[1021]: ./examples/innerclasses/MultiNestingAccess/
+[1022]: ./examples/innerclasses/MultiInterfaces/
+[1023]: ./examples/innerclasses/MultiImplementation/
+[1024]: ./examples/innerclasses/Callbacks/
+[1025]: ./examples/innerclasses/GreenhouseController/
+[1026]: ./examples/innerclasses/InheritInner/
+[1027]: ./examples/innerclasses/BigEgg/
+[1028]: ./examples/innerclasses/BigEgg2/
+[1029]: ./examples/innerclasses/LocalInnerClass/
+
 **chapter14 typeinfo**
 
 | No  | Prj                               | Description                              |
