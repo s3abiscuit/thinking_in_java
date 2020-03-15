@@ -1,6 +1,98 @@
 # thinking_in_java
 Rearrange TIJ4 source code into separate projects that can be executed in IntelliJ
 
+**chapter5 initialization**
+
+| No   | Prj                     | Description |
+| :--- | :---------------------- | :---------- |
+| 1    | [SimpleConstructor][0501] |             |
+| 2    | [SimpleConstructor2][0502]      |             |
+| 3    | [Overloading][0503]  |             |
+| 4    | [OverloadingOrder][0504]   |         |
+| 5    | [PrimitiveOverloading][0505]           |            |
+| 6    | [Demotion][0506]         |             |
+| 7    | [DefaultConstructor][0507]            |             |
+| 8    | [NoSynthesis][0508]              |             |
+| 9    | [BananaPeel][0509]          |             |
+| 10   | [Apricot][0510]     |             |
+| 11   | [Leaf][0511]    |             |
+| 12   | [PassingThis][0512]    |             |
+| 13   | [Flower][0513]    |             |
+| 14   | [TerminationCondition][0514]    |             |
+| 15   | [InitialValues][0515]    |             |
+| 16   | [InitialValues2][0516]    ||
+| 17   | [Measurement][0517]    ||
+| 18   | [MethodInit][0518]    ||
+| 19   | [MethodInit2][0519]    ||
+| 20   | [MethodInit3][0520]    ||
+| 21   | [Counter][0521]    ||
+| 22   | [OrderOfInitialization][0522]    ||
+| 23   | [StaticInitialization][0523]    ||
+| 24   | [Spoon][0524]    ||
+| 25   | [ExplicitStatic][0525]    ||
+| 26   | [Mugs][0526]    ||
+| 27   | [ArraysOfPrimitives][0527]    ||
+| 28   | [ArrayNew][0528]    ||
+| 29   | [ArrayClassObj][0529]    ||
+| 30   | [ArrayInit][0530]    ||
+| 31   | [DynamicArray][0531]    ||
+| 32   | [VarArgs][0532]    ||
+| 33   | [NewVarArgs][0533]    ||
+| 34   | [OptionalTrailingArguments][0534]    ||
+| 35   | [VarargType][0535]    ||
+| 36   | [AutoboxingVarargs][0536]    ||
+| 37   | [OverloadingVarargs][0537]    ||
+| 38   | [OverloadingVarargs2][0538]    ||
+| 39   | [OverloadingVarargs3][0539]    ||
+| 40   | [SimpleEnumUse][0540]    ||
+| 41   | [EnumOrder][0541]    ||
+| 42   | [Burrito][0542]    ||
+
+
+[0501]: ./examples/initialization/SimpleConstructor/
+[0502]: ./examples/initialization/SimpleConstructor2/
+[0503]: ./examples/initialization/Overloading/
+[0504]: ./examples/initialization/OverloadingOrder/
+[0505]: ./examples/initialization/PrimitiveOverloading/
+[0506]: ./examples/initialization/Demotion/
+[0507]: ./examples/initialization/DefaultConstructor/
+[0508]: ./examples/initialization/NoSynthesis/
+[0509]: ./examples/initialization/BananaPeel/
+[0510]: ./examples/initialization/Apricot/
+[0511]: ./examples/initialization/Leaf/
+[0512]: ./examples/initialization/PassingThis/
+[0513]: ./examples/initialization/Flower/
+[0514]: ./examples/initialization/TerminationCondition/
+[0515]: ./examples/initialization/InitialValues/
+[0516]: ./examples/initialization/InitialValues2/
+[0517]: ./examples/initialization/Measurement/
+[0518]: ./examples/initialization/MethodInit/
+[0519]: ./examples/initialization/MethodInit2/
+[0520]: ./examples/initialization/MethodInit3/
+[0521]: ./examples/initialization/Counter/
+[0522]: ./examples/initialization/OrderOfInitialization/
+[0523]: ./examples/initialization/StaticInitialization/
+[0524]: ./examples/initialization/Spoon/
+[0525]: ./examples/initialization/ExplicitStatic/
+[0526]: ./examples/initialization/Mugs/
+[0527]: ./examples/initialization/ArraysOfPrimitives/
+[0528]: ./examples/initialization/ArrayNew/
+[0529]: ./examples/initialization/ArrayClassObj/
+[0530]: ./examples/initialization/ArrayInit/
+[0531]: ./examples/initialization/DynamicArray/
+[0532]: ./examples/initialization/VarArgs/
+[0533]: ./examples/initialization/NewVarArgs/
+[0534]: ./examples/initialization/OptionalTrailingArguments/
+[0535]: ./examples/initialization/VarargType/
+[0536]: ./examples/initialization/AutoboxingVarargs/
+[0537]: ./examples/initialization/OverloadingVarargs/
+[0538]: ./examples/initialization/OverloadingVarargs2/
+[0539]: ./examples/initialization/OverloadingVarargs3/
+[0540]: ./examples/initialization/SimpleEnumUse/
+[0541]: ./examples/initialization/EnumOrder/
+[0542]: ./examples/initialization/Burrito/
+
+
 **chapter6 access**
 
 | No   | Prj                     | Description |
