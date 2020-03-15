@@ -103,11 +103,49 @@ Rearrange TIJ4 source code into separate projects that can be executed in Intell
 [0807]: ./examples/polymorphism/StaticPolymorphism/
 [0808]: ./examples/polymorphism/Sandwich/
 [0809]: ./examples/polymorphism/Frog/
-[0810]: ./examples/polymorphism/PeferenceCounting/
+[0810]: ./examples/polymorphism/ReferenceCounting/
 [0811]: ./examples/polymorphism/PolyConstructors/
 [0812]: ./examples/polymorphism/CovariantReturn/
 [0813]: ./examples/polymorphism/Transmogrify/
 [0814]: ./examples/polymorphism/RTTI/
+
+**chapter9 interfaces**
+
+| No  | Prj                               | Description                              |
+| :---| :-------------------------------- | :---------------------- |
+| 1   | [Music4][0901]                      ||
+| 2   | [Music5][0902]                   ||
+| 3   | [Apply][0903]                     ||
+| 4   | [StringProcessor][0904]         ||
+| 5   | [FilterProcessor][0905]      ||
+| 6   | [Adventure][0906]     ||
+| 7   | [HorrorShow][0907]      ||
+| 8   | [InterfaceCollision][0908]                  ||
+| 9   | [RandomWords][0909]              ||
+| 10  | [RandomDoubles][0910]                  ||
+| 11  | [AdaptedRandomDoubles][0911]                    ||
+| 12  | [Months][0912]                   ||
+| 13  | [TestRandVals][0913]                   ||
+| 14  | [NestingInterfaces][0914]                   ||
+| 15  | [Factories][0915]                   ||
+| 16  | [Games][0916]                   ||
+
+[0901]: ./examples/interfaces/Music4/
+[0902]: ./examples/interfaces/Music5/
+[0903]: ./examples/interfaces/Apply/
+[0904]: ./examples/interfaces/StringProcessor/
+[0905]: ./examples/interfaces/FilterProcessor/
+[0906]: ./examples/interfaces/Adventure/
+[0907]: ./examples/interfaces/HorrorShow/
+[0908]: ./examples/interfaces/InterfaceCollision/
+[0909]: ./examples/interfaces/RandomWords/
+[0910]: ./examples/interfaces/RandomDoubles/
+[0911]: ./examples/interfaces/AdaptedRandomDoubles/
+[0912]: ./examples/interfaces/Months/
+[0913]: ./examples/interfaces/TestRandVals/
+[0914]: ./examples/interfaces/NestingInterfaces/
+[0915]: ./examples/interfaces/Factories/
+[0916]: ./examples/interfaces/Games/
 
 **chapter14 typeinfo**
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf98ad23-fe76-48b6-b3ad-a9eee29e2069" name="Default Changelist" comment="" />
+    <list default="true" id="6077181e-6a07-48a8-9a74-dafd21e9c9dd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
-  <component name="ProjectId" id="1YzJswa5v46TOh4at6GUNX4CFUR" />
+  <component name="ProjectId" id="1Z9UZnuRdVYqPkH5Fy8lNslHzZm" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -37,22 +37,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Detergent">
+  <component name="RunManager">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
-    <configuration name="Cleanser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cleanser" />
-      <module name="Detergent" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Detergent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Detergent" />
-      <module name="Detergent" />
+    <configuration name="FilterProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FilterProcessor" />
+      <module name="FilterProcessor" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,8 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Detergent" />
-        <item itemvalue="Application.Cleanser" />
+        <item itemvalue="Application.FilterProcessor" />
       </list>
     </recent_temporary>
   </component>
