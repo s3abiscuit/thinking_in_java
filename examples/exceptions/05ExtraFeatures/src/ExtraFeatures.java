@@ -1,6 +1,6 @@
 //: exceptions/ExtraFeatures.java
 // Further embellishment of exception classes.
-import static net.mindview.util.Print.*;
+import static util.Print.*;
 
 class MyException2 extends Exception {
   private int x;
