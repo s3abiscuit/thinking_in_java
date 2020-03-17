@@ -24,3 +24,7 @@ public class ApplesAndOrangesWithoutGenerics {
       // Orange is detected only at run time
   }
 } /* (Execute to see output) *///:~
+/* output
+Exception in thread "main" java.lang.ClassCastException: class Orange cannot be cast to class Apple (Orange and Apple are in unnamed module of loader 'app')
+	at ApplesAndOrangesWithoutGenerics.main(ApplesAndOrangesWithoutGenerics.java:23)
+ */
