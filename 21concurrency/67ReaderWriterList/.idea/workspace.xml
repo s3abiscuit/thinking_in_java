@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cea25883-b977-437b-81e8-662ce5486db7" name="Default Changelist" comment="" />
+    <list default="true" id="8c01241b-48dc-49f8-a121-8452bb0f7397" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
-  <component name="ProjectId" id="1ZwgY2mgipPfOcDIxJ32Kn5LZqY" />
+  <component name="ProjectId" id="1ZwiEPjWq5QxTPA4ptlayBbNlXD" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -42,9 +42,9 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
-    <configuration name="SynchronizationComparisons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SynchronizationComparisons" />
-      <module name="63SynchronizationComparisons" />
+    <configuration name="ReaderWriterList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReaderWriterList" />
+      <module name="67ReaderWriterList" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,7 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SynchronizationComparisons" />
+        <item itemvalue="Application.ReaderWriterList" />
       </list>
     </recent_temporary>
   </component>
