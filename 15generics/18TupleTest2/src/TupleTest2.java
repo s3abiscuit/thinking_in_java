@@ -1,5 +1,6 @@
 //: generics/TupleTest2.java
 import util.*;
+// 直接导入静态函数
 import static util.Tuple.*;
 
 class Amphibian {
