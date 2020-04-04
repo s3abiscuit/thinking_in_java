@@ -1,9 +1,6 @@
 //: generics/TupleTest.java
 
-import util.FiveTuple;
-import util.FourTuple;
-import util.ThreeTuple;
-import util.TwoTuple;
+import util.*;
 
 class Amphibian {
 }
@@ -12,7 +9,7 @@ class Vehicle {
 }
 
 public class TupleTest {
-    static util.TwoTuple<String, Integer> f() {
+    static TwoTuple<String, Integer> f() {
         // Autoboxing converts the int to Integer:
         return new TwoTuple<String, Integer>("hi", 47);
     }
