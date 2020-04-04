@@ -1,4 +1,3 @@
-//: generics/coffee/CoffeeGenerator.java
 // Generate different types of Coffee:
 
 import coffee.*;
@@ -49,8 +48,6 @@ public class CoffeeGenerator
             throw new UnsupportedOperationException();
         }
     }
-
-    ;
 
     public Iterator<Coffee> iterator() {
         return new CoffeeIterator();
