@@ -19,6 +19,7 @@ class SuperHero<POWER extends SuperPower> {
   POWER getPower() { return power; }
 }
 
+// sleuth 侦探
 class SuperSleuth<POWER extends XRayVision>
 extends SuperHero<POWER> {
   SuperSleuth(POWER power) { super(power); }
