@@ -8,6 +8,10 @@ import java.util.concurrent.*;
 
 import static util.Print.print;
 
+/**
+ * 字面意思回环栅栏，通过它可以实现让一组线程等待至某个状态之后再全部同时执行。
+ */
+
 class Horse implements Runnable {
     private static int counter = 0;
     private final int id = counter++;

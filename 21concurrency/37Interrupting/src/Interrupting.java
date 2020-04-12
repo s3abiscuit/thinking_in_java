@@ -89,9 +89,11 @@ Interrupting SleepBlocked
 InterruptedException
 Exiting SleepBlocked.run()
 Interrupt sent to SleepBlocked
+
 Waiting for read():
 Interrupting IOBlocked
 Interrupt sent to IOBlocked
+
 Trying to call f()
 Interrupting SynchronizedBlocked
 Interrupt sent to SynchronizedBlocked

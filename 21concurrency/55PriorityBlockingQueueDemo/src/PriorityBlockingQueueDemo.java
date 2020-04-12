@@ -136,4 +136,57 @@ public class PriorityBlockingQueueDemo {
         exec.execute(new PrioritizedTaskProducer(queue, exec));
         exec.execute(new PrioritizedTaskConsumer(queue));
     }
-} /* (Execute to see output) *///:~
+} /* output
+[8  ] Task 0
+[9  ] Task 5
+[9  ] Task 13
+[9  ] Task 14
+[8  ] Task 10
+[8  ] Task 16
+[8  ] Task 19
+[8  ] Task 11
+[8  ] Task 6
+[8  ] Task 15
+[7  ] Task 9
+[5  ] Task 1
+[3  ] Task 2
+[2  ] Task 8
+[1  ] Task 3
+[1  ] Task 4
+[1  ] Task 17
+[1  ] Task 12
+[0  ] Task 18
+[0  ] Task 7
+[10 ] Task 20
+[10 ] Task 21
+[10 ] Task 22
+[10 ] Task 23
+[10 ] Task 24
+[10 ] Task 25
+[10 ] Task 26
+[10 ] Task 27
+[10 ] Task 28
+Finished PrioritizedTaskProducer
+[10 ] Task 29
+[9  ] Task 39
+[8  ] Task 38
+[7  ] Task 37
+[6  ] Task 36
+[5  ] Task 35
+[4  ] Task 34
+[3  ] Task 33
+[2  ] Task 32
+[1  ] Task 31
+[0  ] Task 30
+(0:8)(1:5)(2:3)(3:1)(4:1)
+(5:9)(6:8)(7:0)(8:2)(9:7)
+(10:8)(11:8)(12:1)(13:9)(14:9)
+(15:8)(16:8)(17:1)(18:0)(19:8)
+(20:10)(21:10)(22:10)(23:10)(24:10)
+(25:10)(26:10)(27:10)(28:10)(29:10)
+(30:0)(31:1)(32:2)(33:3)(34:4)
+(35:5)(36:6)(37:7)(38:8)(39:9)
+(40:-1)
+[-1 ] Task 40 Calling shutdownNow()
+Finished PrioritizedTaskConsumer
+*///:~

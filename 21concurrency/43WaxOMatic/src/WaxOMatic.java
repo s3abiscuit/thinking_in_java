@@ -33,7 +33,11 @@ class Car {
             wait();
     }
 }
-
+/**
+ * waxing
+ * notify
+ * wait
+ */
 class WaxOn implements Runnable {
     private Car car;
 
@@ -55,7 +59,11 @@ class WaxOn implements Runnable {
         print("Ending Wax On task");
     }
 }
-
+/**
+ * wait
+ * wax off
+ * nofity
+ */
 class WaxOff implements Runnable {
     private Car car;
 
