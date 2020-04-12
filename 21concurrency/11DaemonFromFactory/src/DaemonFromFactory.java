@@ -21,7 +21,7 @@ public class DaemonFromFactory implements Runnable {
 
     public static void main(String[] args) throws Exception {
         ExecutorService exec = Executors.newCachedThreadPool(
-                new net.mindview.util.DaemonThreadFactory());
+                new DaemonThreadFactory());
         for (int i = 0; i < 10; i++)
             exec.execute(new DaemonFromFactory());
         print("All daemons started");
