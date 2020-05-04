@@ -7,6 +7,7 @@ public class ArrayMaker<T> {
   public ArrayMaker(Class<T> kind) { this.kind = kind; }
   @SuppressWarnings("unchecked")
   T[] create(int size) {
+    // Array.newInstance() returns Object
     return (T[])Array.newInstance(kind, size);
   }
   public static void main(String[] args) {

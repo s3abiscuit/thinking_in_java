@@ -20,6 +20,7 @@ public class ErasureAndInheritance {
   public static void main(String[] args) {
     Derived2 d2 = new Derived2();
     Object obj = d2.get();
+    // compiler checks here
     d2.set(obj); // Warning here!
   }
 } ///:~

@@ -2,6 +2,7 @@
 
 public class GenericMethods {
   public <T> void f(T x) {
+    // inheritance
     System.out.println(x.getClass().getName());
   }
   public static void main(String[] args) {
