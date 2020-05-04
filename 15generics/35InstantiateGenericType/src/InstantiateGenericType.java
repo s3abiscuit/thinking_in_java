@@ -6,6 +6,7 @@ class ClassAsFactory<T> {
   public ClassAsFactory(Class<T> kind) {
     try {
       x = kind.newInstance();
+      System.out.println(x.getClass().getName());
     } catch(Exception e) {
       throw new RuntimeException(e);
     }
